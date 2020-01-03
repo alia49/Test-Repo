@@ -34,5 +34,3 @@ while count < NUMBER_OF_PRIMES:
     number += 1
 """
 print("asd")
-
-print("asdas")
