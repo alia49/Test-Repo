@@ -1,4 +1,4 @@
-'''
+"""
 NUMBER_OF_PRIMES = 50  # Number of primes to display
 NUMBER_OF_PRIMES_PER_LINE = 10 # Display 10 per line
 count = 0 # Count the number of prime numbers
@@ -32,5 +32,7 @@ while count < NUMBER_OF_PRIMES:
 
     # Check if the next number is prime
     number += 1
-'''
+"""
 print("asd")
+
+print("asdas")
